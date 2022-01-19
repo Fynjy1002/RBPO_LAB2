@@ -1,0 +1,5 @@
+﻿  task9_func.cpp
+  task9_main.cpp
+C:\Users\Антон\Desktop\RBPO2-main\task9\task9\task9_main.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  task9.vcxproj -> C:\Users\Антон\Desktop\RBPO2-main\task9\Debug\task9.exe
