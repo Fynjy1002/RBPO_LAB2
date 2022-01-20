@@ -1,9 +1,16 @@
 #include <iostream>
-#include "task7_func.cpp"
+
+using namespace std;
+extern double x;
+extern double y;
+extern double res;
 
 void f();
 
 int main() {
+    x = 5;
+    y = 6;
+
     std::cout << "x =" << x << std::endl;
     std::cout << "y =" << y << std::endl;
     f();
